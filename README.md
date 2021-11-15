@@ -12,3 +12,5 @@ You'll also have the fastest access to coupons, to bring down prices if you don'
 
 You'll also get alerts to updated flavors at your favorite spots, whether something has been removed from the menu or 
 a new holiday has crept onto the menu in the form of new, festive flavors.
+
+(Features a local map tracked through your location, easy access to deals, and instantly updated deals and seasonal beverages)
