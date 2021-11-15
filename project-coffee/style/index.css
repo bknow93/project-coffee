@@ -1,0 +1,21 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: darkkhaki;
+}
+
+.main-titles {
+    color:sienna
+}
+
+.sub-titles{
+    color: tomato;
+}
+
+.informals{
+    height: 25em;
+    width: 55em;
+    background-color:thistle;
+    border-style: solid, red;
+    margin-left: 15em;
+    margin-top: 5em;
+}
