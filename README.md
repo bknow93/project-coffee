@@ -14,3 +14,5 @@ You'll also get alerts to updated flavors at your favorite spots, whether someth
 a new holiday has crept onto the menu in the form of new, festive flavors.
 
 (Features a local map tracked through your location, easy access to deals, and instantly updated deals and seasonal beverages)
+
+(Find way to merge branches)
