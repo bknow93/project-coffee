@@ -9,13 +9,18 @@ body{
 
 .sub-titles{
     color: tomato;
+    margin-top: 2em;
+    margin-left: 3em;
 }
 
 .informals{
     height: 25em;
     width: 55em;
     background-color:thistle;
+    border: firebrick;
+    border-style: double;
     border-style: solid, red;
-    margin-left: 15em;
-    margin-top: 5em;
+    margin-left: 5em;
+    margin-top: 2em;
+    padding: 5px;
 }
